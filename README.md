@@ -4,9 +4,6 @@ My curiousity about technology started at a young age when I would navigate my o
 
 Today, I enjoy building real-world projects and tackling problems that require thoughtful architecture.
 
--Some skills/tools I know
--Some skills I'm currently working on
-
 ### Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

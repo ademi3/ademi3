@@ -17,3 +17,4 @@ Today, I enjoy building real-world projects and tackling problems that require t
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-800000?style=for-the-badge)

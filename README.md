@@ -1,6 +1,6 @@
 # Hi, I'm Alexandru!
 
-My curiousity for technology developed at an early age when I would navigate my older brother's computer and wonder how everything online worked so seamlessly. The internet felt vast and complex, yet somehow instantly accessible with a single click. That early fascination eventually evolved into a deeper interest in understanding how data moves across networks, how servers respond in milliseconds, and how systems stay secure behind the scenes.
+My curiousity for technology developed at an early age when I would navigate my older brother's computer and wonder how everything online worked so seamlessly. The internet felt vast and complex, yet somehow instantly accessible with a few clicks. That early fascination eventually evolved into a deeper interest in understanding how data moves across networks, how servers respond in milliseconds, and how systems stay secure behind the scenes.
 
 Today, I enjoy building real-world projects and tackling problems that require thoughtful architecture. I am particularly interested in how different layers of a system interact and rely on each other. Some tools I am currently learning to use are Docker and AWS to strengthen my grasp of cloud infrastructure and deployment.
 

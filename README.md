@@ -2,9 +2,9 @@
 
 My curiousity for technology developed at an early age when I would navigate my older brother's computer and wonder how everything online worked so seamlessly. That early fascination eventually evolved into a deeper interest in understanding how data moves across networks, how servers respond in milliseconds, and how systems stay secure behind the scenes.
 
-Today, I enjoy building real-world projects and tackling problems that require thoughtful architecture. I'm particularly interested in how different layers of a system interact and rely on each other. Some tools I am currently learning to use are Docker and AWS to strengthen my grasp of cloud infrastructure and deployment.
+Today, I enjoy building real-world projects and tackling problems that require thoughtful architecture. I am particularly interested in how different layers of a system interact and rely on each other. Some tools I am currently learning to use are Docker and AWS to strengthen my grasp of cloud infrastructure and deployment.
 
-I am seeking an IT-focused role with a Chicago-based company where I can apply my knowledge to help solve real-world infrastructure and systems challenges.
+Seeking an IT role with a Chicago-based company where I can apply my knowledge to help solve infrastructure and networking challenges.
 
 ### Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

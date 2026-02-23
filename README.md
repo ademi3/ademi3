@@ -21,5 +21,5 @@ I am seeking an IT role with a Chicago-based company where I can apply my knowle
 
 ### Projects:
 
-- Networked Connect Four:
+- Networked Connect Four: https://github.com/ademi3/networked-connect-four
 - Dynamic Food Web: 

@@ -19,7 +19,7 @@ I am seeking an IT role with a Chicago-based company where I can apply my knowle
 ![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge)
 
 
-### My Projects:
+### Projects:
 
 - Networked Connect Four:
 - Dynamic Food Web: 

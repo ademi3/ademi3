@@ -14,10 +14,10 @@ I am seeking an IT role with a Chicago-based company where I can apply my knowle
 
 ### Skills:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge)
 
 
 ### Projects:
